@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/characters_fragment"
+        android:icon="@drawable/ic_characters_bottom_nav_to_fragment"
+        android:title="@string/characters"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/locations_fragment"
+        android:icon="@drawable/ic_location_bottom_nav_to_fragment"
+        android:title="@string/locations"
+        android:orderInCategory="200"/>
+    <item
+        android:id="@+id/episodes_fragment"
+        android:icon="@drawable/ic_episodes_bottom_nav_to_fragment"
+        android:title="@string/episodes"
+        android:orderInCategory="300"/>
+
+</menu>

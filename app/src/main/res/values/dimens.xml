@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_for_items_in_recyclers">20dp</dimen>
+    <dimen name="padding_item_status_gender_species">5dp</dimen>
+    <dimen name="item_text_view_size">14sp</dimen>
+    <dimen name="character_info_text">20sp</dimen>
+    <dimen name="episodes_text_view">20sp</dimen>
+
+</resources>
