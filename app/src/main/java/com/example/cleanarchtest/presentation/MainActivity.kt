@@ -23,6 +23,7 @@ import com.example.cleanarchtest.presentation.locations.LocationsFragment
 class MainActivity: AppCompatActivity(), ReplaceSplashCallback, OnFragmentToStart {
 
     private lateinit var binding: ActivityMainBinding
+    private var tempWebHook = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
